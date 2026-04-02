@@ -32,7 +32,5 @@ public class PeoplegetRedpacket extends Thread{
                 e.printStackTrace();
             }
         }
-
-
     }
 }

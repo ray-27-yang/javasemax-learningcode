@@ -1,0 +1,12 @@
+============Dog=============
+hobby=hi
+age=3
+============Student=============
+name=mary
+age=18
+hobby=eat
+============Teacher=============
+name=tom
+age=18
+hobby=hobby
+salary=10000

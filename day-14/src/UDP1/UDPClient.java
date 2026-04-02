@@ -17,3 +17,7 @@ public class UDPClient {
         socket.send(packet);
     }
 }
+//DatagramSocket socket = new DatagramSocket();
+//byte[] bytes = "kknknnk".getBytes();
+//DatagramPacket packet = new DatagramPacket(bytes,bytes.length,InetAddress.getLocalHost(),2007);
+//socket.send(packet);

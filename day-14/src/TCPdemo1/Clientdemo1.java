@@ -19,7 +19,5 @@ public class Clientdemo1 {
         dos.writeInt(18);
         //4.关闭资源
         socket.close();
-
-
     }
 }

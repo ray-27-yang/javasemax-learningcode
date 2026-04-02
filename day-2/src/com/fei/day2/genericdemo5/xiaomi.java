@@ -1,4 +1,4 @@
 package com.fei.day2.genericdemo5;
 
-public class xiaomi {
+public class xiaomi extends Car{
 }

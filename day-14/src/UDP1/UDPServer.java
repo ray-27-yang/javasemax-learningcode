@@ -20,8 +20,5 @@ public class UDPServer {
         //4.查看数据是否接受到了
         String data = new String(buf,0,len);
         System.out.println("数据来自于：" + ip + "端口号是：" + port);
-
-
-
     }
 }

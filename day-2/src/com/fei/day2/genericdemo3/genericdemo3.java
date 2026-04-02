@@ -1,4 +1,4 @@
-package com.fei.day2;
+package com.fei.day2.genericdemo3;
 
 public class genericdemo3 {
     public static void main(String[] args) {

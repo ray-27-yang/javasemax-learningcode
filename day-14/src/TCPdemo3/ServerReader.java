@@ -25,8 +25,6 @@ public class ServerReader extends Thread{
         } catch (Exception e) {
             System.out.println("客户端退出"+socket.getInetAddress().getHostAddress());//若客户端退出，则服务端会抛异常，这里处理
         }
-
     }
-
 }
 

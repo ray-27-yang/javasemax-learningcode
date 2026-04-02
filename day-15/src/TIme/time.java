@@ -41,6 +41,4 @@ public class time {
         BigDecimal j = BigDecimal.valueOf(0.3);
         BigDecimal k = i.divide(j,2,BigDecimal.ROUND_HALF_UP);//0.33
     }
-
 }
-
